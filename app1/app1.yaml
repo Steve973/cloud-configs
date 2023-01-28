@@ -1,6 +1,7 @@
 main-settings:
-  property-c: value 3
-  property-d: value 4
+  property-b: git local value 2
+  property-c: git value 3
+  property-d: git value 4
 app1-stuff:
-  property-1: value a
-  property-2: value b
+  property-1: git value a
+  property-2: git value b
