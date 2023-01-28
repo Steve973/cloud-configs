@@ -1,4 +1,4 @@
 main-settings:
   property-a: git value 1
   property-b: git value 2
-  override-a: \${app.main-settings.override-a:not-overridden}
+  override-a: ${app.main-settings.override-a:not-overridden}
