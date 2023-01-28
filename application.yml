@@ -1,3 +1,4 @@
 main-settings:
   property-a: git value 1
   property-b: git value 2
+  override-a: \${main-settings.override-a}
