@@ -4,4 +4,4 @@ main-settings:
   property-d: git app value 4
 app1-stuff:
   property-1: git value a
-  property-2: git value bbbbb
+  property-2: git value 22222
